@@ -10,8 +10,13 @@ Advanced emotion recognition using **speech + text analysis** with ASR quality a
 - **Web Interface**: Streamlit deployment
 
 ## 📊 Performance
-- **Accuracy**: 73.5%
-- **Confidence**: 84.7%
+- **Confidence**: 1.00
 - **Robustness**: Tested against noise
 
 ## 🛠️ Setup
+- Run the file
+
+## 🎯 Perfect for
+- Multimodal AI demonstrations
+- Speech processing research
+
